@@ -1,6 +1,6 @@
 # rest_api_app
 
-A new Flutter project.
+An app to practice rest API call
 
 ## Getting Started
 
